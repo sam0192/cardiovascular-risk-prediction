@@ -15,7 +15,7 @@ using medical and lifestyle-related features.
 
 ## 📊 Dataset Description
 The dataset contains health indicators and demographic information.
-
+ 
 ### Input Features
 - Age
 - Gender
